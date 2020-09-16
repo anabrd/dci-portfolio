@@ -186,7 +186,7 @@ nav ul li a {
 
 .software {
   width: 30%;
-  background-image: url(/img/blob-software.svg);
+  background-image: url(./img/blob-software.svg);
   background-position-x: center;
 }
 
@@ -200,7 +200,7 @@ nav ul li a {
 
 .languages {
   width: 40%;
-  background-image: url(/img/blob-languages.svg);
+  background-image: url(./img/blob-languages.svg);
   background-position-x: center;
 }
 
